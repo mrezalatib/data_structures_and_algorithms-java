@@ -1,9 +1,11 @@
+package co.za.wethinkcode;
+
 /*
  Primitive data types in java:
  * int
  * float
  * char
- 
+
  Other data types in java:
  * Array
  * string
@@ -21,3 +23,9 @@
  * enumSet
  * bitSet
  */
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
